@@ -1,6 +1,6 @@
 # The-What
 
-New text adventure game based on childhood memories of my sister and I playing together during the summer. 
+A new text adventure game based on childhood memories of my sister and I playing together during the summer. 
 Our mom worked for the athletic department of a big state university and my sister and I would often
 badger the football players to play with us. One, a superstar running back named Moe, was kind enough to give us attention.
 
